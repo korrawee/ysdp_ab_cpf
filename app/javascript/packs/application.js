@@ -7,6 +7,9 @@ import Rails from "@rails/ujs"
 import Turbolinks from "turbolinks"
 import * as ActiveStorage from "@rails/activestorage"
 import "channels"
+import 'bootstrap';
+import '../bootstrap/application.js'
+import 'bootstrap-icons/font/bootstrap-icons.css'
 require('stylesheets/application.scss')
 
 
